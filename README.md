@@ -25,3 +25,9 @@ Unlike JDBC, Hibernate allows developers to write their database-driven Java app
 Spring is useful for transaction management, aspect-oriented programming, and dependency injection. Hibernate provides Object-Relational Persistence and Query service for applications. Spring has a number of modules such as Spring core, Spring MVC, Spring Security, Spring JDBC & more.
 # Why JPA is better than Hibernate?
 So your choices are this: hibernate, toplink, etc... The advantage to JPA is that it allows you to swap out your implementation if need be. The disadvantage is that the native hibernate/toplink/etc... API may offer functionality that the JPA specification doesn't support.
+# JavaBean
+A JavaBean is a Java class that should follow the following conventions:
+
+- It should have a no-arg constructor.
+- It should be Serializable.
+- It should provide methods to set and get the values of the properties, known as getter and setter methods.
