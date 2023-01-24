@@ -31,3 +31,5 @@ A JavaBean is a Java class that should follow the following conventions:
 - It should have a no-arg constructor.
 - It should be Serializable.
 - It should provide methods to set and get the values of the properties, known as getter and setter methods.
+# Is JavaBean a POJO?
+- A JavaBean is a POJO that is serializable, has a no-argument constructor, and allows access to properties using getter and setter methods.
