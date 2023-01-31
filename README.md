@@ -33,3 +33,5 @@ A JavaBean is a Java class that should follow the following conventions:
 - It should provide methods to set and get the values of the properties, known as getter and setter methods.
 # Is JavaBean a POJO?
 - A JavaBean is a POJO that is serializable, has a no-argument constructor, and allows access to properties using getter and setter methods .
+# Spring Boot MVC
+- Spring MVC is considered to be the model view controller-based web framework under the Spring framework.
