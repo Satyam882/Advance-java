@@ -34,4 +34,9 @@ A JavaBean is a Java class that should follow the following conventions:
 # Is JavaBean a POJO?
 - A JavaBean is a POJO that is serializable, has a no-argument constructor, and allows access to properties using getter and setter methods .
 # Spring Boot MVC
-- Spring MVC is considered to be the model view controller-based web framework under the Spring framework.
+- Spring MVC is considered to be the model view controller-based web framework under the Spring framework. 
+- A Spring MVC is a Java framework which is used to build web applications. It follows the Model-View-Controller design pattern.
+  It implements all the basic features of a core spring framework like Inversion of Control, Dependency Injection.
+- Spring's annotation based MVC framework simplifies the process of creating RESTful web services. 
+  The key difference between a traditional Spring MVC controller and the RESTful web service controller is the way the HTTP response body is created
+  
