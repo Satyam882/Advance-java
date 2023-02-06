@@ -1,0 +1,22 @@
+package com.app.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.app.pojos.Student;
+
+@RestController
+@RequestMapping("/Student")
+public class StudentController {
+	public StudentController() {
+		System.out.println("In student Controller");
+	}
+	@GetMapping
+	public List<Student> getStudents(){
+		return null;
+	}
+
+}

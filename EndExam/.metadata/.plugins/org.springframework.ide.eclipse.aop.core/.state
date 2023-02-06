@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="day11_REST"/>
+<aop-project name="spring-boot-tx-propagation"/>
+<aop-project name="spring-boot-optimistic-locking"/>
+<aop-project name="Endexam"/>
+</aop-reference-model>
