@@ -39,4 +39,5 @@ A JavaBean is a Java class that should follow the following conventions:
 - It implements all the basic features of a core spring framework like Inversion of Control, Dependency Injection.
 - Spring's annotation based MVC framework simplifies the process of creating RESTful web services. 
 - The key difference between a traditional Spring MVC controller and the RESTful web service controller is the way the HTTP response body is created
-  
+ # Introduction of ER Model
+- ER Model is used to model the logical view of the system from a data perspective which consists of these components:
